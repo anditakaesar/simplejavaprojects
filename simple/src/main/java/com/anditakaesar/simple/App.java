@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        StringCount counter = new StringCount();
+		System.out.println(counter.countString("one two three  four"));
     }
 }
