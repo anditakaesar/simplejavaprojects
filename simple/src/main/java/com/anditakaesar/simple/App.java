@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-		System.out.println(WordCount.countString("one two three  four"));
+		System.out.println(WordCount.countWord("one two three  four"));
     }
 }
