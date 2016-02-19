@@ -2,13 +2,13 @@
 
 Simple Java Projects for personal purpose and learning about writing source code and algorithms.
 
-## Required
+### Required
 - maven 3.x+
 
-## Building And Testing
+### Building And Testing
 - build using "mvn clean install"
 
-## Dependencies
+### Dependencies
 - junit 4.8.2
 
 ## Todo
