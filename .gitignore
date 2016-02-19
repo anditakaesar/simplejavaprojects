@@ -14,5 +14,6 @@ hs_err_pid*
 # target directory in simple/target
 simple/target/*
 
-# generated 'workspace.xml' file
-simple/.idea/workspace.xml
+# prefered ignored files IDEA generated
+**/.idea/workspace.xml
+**/.idea/tasks.xml
