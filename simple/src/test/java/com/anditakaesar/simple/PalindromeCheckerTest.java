@@ -1,7 +1,6 @@
 package com.anditakaesar.simple;
 
 import org.junit.*;
-import com.anditakaesar.simple.PalindromeChecker;
 
 public class PalindromeCheckerTest {
 
