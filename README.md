@@ -1,6 +1,6 @@
 # Simple Java Projects
 
-Simple Java Projects for personal purpose and learning
+Simple Java Projects for personal purpose and learning about writing source code and algorithms.
 
 ## Required
 - maven 3.x+
