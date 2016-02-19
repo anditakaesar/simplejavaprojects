@@ -1,12 +1,12 @@
 package com.anditakaesar.simple;
 /**
- * StringCount
- * com.anditakaesar.simple.StringCount
+ * WordCount
+ * com.anditakaesar.simple.WordCount
  * 
  */
 import java.util.regex.*;
 
-public class StringCount {
+public class WordCount {
 	/*
 	 * parameter: String, 
 	 * return: int
